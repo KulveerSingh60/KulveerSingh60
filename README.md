@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KulveerSingh60
+- 👋 Hi, I’m @KulveerSingh
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning Front End Development 
 - 💞️ I’m looking to collaborate on Website
