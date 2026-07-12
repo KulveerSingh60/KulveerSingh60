@@ -18,7 +18,7 @@ A full-stack PHP and MySQL application for managing products, stock, purchases, 
 ## Let's connect
 
 - Email: [kulveerxsingh60@gmail.com](mailto:kulveerxsingh60@gmail.com)
-- Portfolio: [View my portfolio](https://github.com/KulveerSingh60/portfolio)
+- Portfolio: [View my portfolio](https://kulveersingh60.github.io/portfolio/)
 
 ---
 
