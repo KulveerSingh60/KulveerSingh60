@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @KulveerSingh60
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Front End Development 
-- 💞️ I’m looking to collaborate on Website
-- 📫 How to reach me -->
-  Contact Number: 6284952012
-  E-mail: kulveerxsingh60@gmail.com
+# Hi, I'm Kulveer Singh 👋
 
-<!---
-KulveerSingh60/KulveerSingh60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Aspiring Full-Stack Developer
+
+I enjoy building practical web applications and learning through real projects. I am currently strengthening my front-end skills while expanding my full-stack development experience.
+
+## What I'm working with
+
+- **Languages & tools:** PHP, MySQL, HTML, CSS, JavaScript
+- **Focus areas:** Responsive web interfaces, database-driven applications, authentication, and CRUD systems
+- **Currently learning:** Modern front-end development and cleaner full-stack architecture
+
+## Featured project
+
+### [Inventory & Stock Management System](https://github.com/KulveerSingh60/Inventory-Stock-MAnagement-System)
+A full-stack PHP and MySQL application for managing products, stock, purchases, and sales, with user authentication and activity tracking.
+
+## Let's connect
+
+- Email: [kulveerxsingh60@gmail.com](mailto:kulveerxsingh60@gmail.com)
+- Portfolio: [View my portfolio](https://github.com/KulveerSingh60/portfolio)
+
+---
+
+*Open to learning, collaboration, and opportunities to build useful web products.*
